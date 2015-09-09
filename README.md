@@ -5,12 +5,12 @@ Suggests shorter, simpler alternatives to long words.
 
 ### Installation
 
-	git clone git@github.com:rowanoulton/simpler-words.git ./simpler-words
+	npm install simpler-words
 
 ### Usage
 
 ```js
-var simplerWords = require('./simpler-words');
+var simplerWords = require('simpler-words');
 
 var alternatives = simplerWords('additional');
 // alternatives -> ['more', 'extra']
