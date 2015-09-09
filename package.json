@@ -1,0 +1,32 @@
+{
+  "name": "simpler-words",
+  "version": "0.0.1",
+  "description": "Suggests shorter, simpler alternatives to long words",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowanoulton/simpler-words.git"
+  },
+  "keywords": [
+    "english",
+    "writing",
+    "authoring",
+    "prose",
+    "words",
+    "complexity",
+    "readability",
+    "grammer",
+    "wordiness",
+    "wordy",
+    "suggestions"
+  ],
+  "author": "Rowan Oulton <rowan.oulton@gmail.com> (http://github.com/rowanoulton)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowanoulton/simpler-words/issues"
+  },
+  "homepage": "https://github.com/rowanoulton/simpler-words#readme"
+}
